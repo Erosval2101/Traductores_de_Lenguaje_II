@@ -9,7 +9,7 @@ En esta actividad se crea un pequeño analizador léxico el cual identifique los
 
 Identificadores
 
-![Captura3](https://user-images.githubusercontent.com/70926870/101233380-3b15dd80-367e-11eb-8445-a274132ffc2b.PNG 100x20)
+<img src="https://user-images.githubusercontent.com/70926870/101233380-3b15dd80-367e-11eb-8445-a274132ffc2b.PNG" widht=100 height="100">
 
 
 Reales
