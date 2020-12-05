@@ -8,7 +8,7 @@ En esta actividad se crea un pequeño analizador léxico el cual identifique los
 ### Resultados.
 
 Identificadores
-![Captura3](https://user-images.githubusercontent.com/70926870/101233106-e83b2680-367b-11eb-9a37-ff94a88b3d8b.PNGstyle=centerme)
+![Captura3](https://user-images.githubusercontent.com/70926870/101233106-e83b2680-367b-11eb-9a37-ff94a88b3d8b.PNG =400x400)
 
 
 
