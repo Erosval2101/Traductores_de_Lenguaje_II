@@ -1,0 +1,39 @@
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.exe
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.deps.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.runtimeconfig.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.runtimeconfig.dev.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.dll
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.pdb
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.csprojAssemblyReference.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.AssemblyInfoInputs.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.AssemblyInfo.cs
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.csproj.CoreCompileInputs.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.dll
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.pdb
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea_3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.genruntimeconfig.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.exe
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.deps.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.runtimeconfig.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.runtimeconfig.dev.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.dll
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.pdb
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.csprojAssemblyReference.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.AssemblyInfoInputs.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.AssemblyInfo.cs
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.csproj.CoreCompileInputs.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.dll
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.pdb
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 3\analizadorSintactico\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.genruntimeconfig.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.exe
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.deps.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.runtimeconfig.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.runtimeconfig.dev.json
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.dll
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\bin\Debug\netcoreapp3.1\analizadorSintactico.pdb
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.csprojAssemblyReference.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.AssemblyInfoInputs.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.AssemblyInfo.cs
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.csproj.CoreCompileInputs.cache
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.dll
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.pdb
+D:\Practicas\Cosas de C#\Actividades TL II\Mini Analizador Sintactico\Tarea 4\analizadorSintactico\obj\Debug\netcoreapp3.1\analizadorSintactico.genruntimeconfig.cache
