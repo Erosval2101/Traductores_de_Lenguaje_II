@@ -1,0 +1,10 @@
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\bin\Debug\analizadorLexico.exe.config
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\bin\Debug\analizadorLexico.exe
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\bin\Debug\analizadorLexico.pdb
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorSintactico.csprojAssemblyReference.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.Principal.resources
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.Properties.Resources.resources
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorSintactico.csproj.GenerateResource.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorSintactico.csproj.CoreCompileInputs.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.exe
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.pdb
