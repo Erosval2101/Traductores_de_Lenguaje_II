@@ -9,8 +9,8 @@ En esta actividad se crea un pequeño analizador léxico el cual identifique los
 
 Identificadores
 
+![Captura3](https://user-images.githubusercontent.com/70926870/101233380-3b15dd80-367e-11eb-8445-a274132ffc2b.PNG){: width=150 height=100 style="float:right; padding:16px"}
 
-<img align="left" src="https://user-images.githubusercontent.com/70926870/101233106-e83b2680-367b-11eb-9a37-ff94a88b3d8b.PNG" width=500>
 
 
 
