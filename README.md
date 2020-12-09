@@ -2,7 +2,7 @@
 
 ## Descripción.
 
-En este repositorio se encuentran las actividades hechas en la materia de Seminario de Solución de Problemas de Traductores de Lenguaje II. Además de que también está subido el proyecto final de la materia en cuestión, quien sea de paso, el profesor a cargo de la clase es Michel Emanuel Lopez Franco.
+En este repositorio se encuentran las actividades hechas en la materia de Seminario de Solución de Problemas de Traductores de Lenguaje II. Además de que también está subido el proyecto final de la materia en cuestión. El profesor a cargo de la clase es Michel Emanuel Lopez Franco.
 
 Este repositorio junto con los archivos que se encuentran aquí fueron creados por el alumno Erick Osvaldo Bañuelos Flores, de la Universidad de Guadalajara.
 
